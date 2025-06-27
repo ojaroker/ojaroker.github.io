@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://colgate.edu' target="_blank">Colgate University</a> Undergraduate -- Dual Major in Math and Physics, with Coursework in Computer Science
+subtitle:
 
 profile:
-  align: right
+  align: left
   image: #prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info: >
+    <p>Applied Math - Physics Dual Major</p>
+    <p><a href='http://colgate.edu' target="_blank">Colgate University</a></p>
+    <p>oscarjaroker {at} gmail {dot} com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+(This site is currently under development and is based on the Al-Folio Jekyll theme.)
 
 I am a junior at Colgate University studying Applied Mathematics and Physics. I am interested in studying mathematical modeling and data analysis. I have a strong background in computer science and computational methods used in simulation and optimization.
 
