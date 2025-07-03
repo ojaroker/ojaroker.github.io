@@ -14,7 +14,7 @@ prettier_check:
     - npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
     - npx prettier . --check
   rules:
-    - if: '$CI_COMMIT_BRANCH' # Run on all branches
+    - if: "$CI_COMMIT_BRANCH" # Run on all branches
   artifacts:
     when: on_failure
     paths:
@@ -24,7 +24,4 @@ prettier_check:
     - |
       if [ $CI_JOB_STATUS != "success" ]; then
         npx prettier . --write
-        git diff -- . ':(exclude)package-lock.json' ':(exclude)package.json' > diff.txt
-        npm install -g diff2html-cli
-        diff2html -i file -s side -F diff.html -- diff.txt        
       fi
