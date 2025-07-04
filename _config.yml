@@ -175,6 +175,7 @@ kramdown:
 # Includes & Exclude directories/files in conversion
 # Relative to site's source directory
 include: ["_pages", "_scripts"] # Force inclusion
+# Exclude can also be used to remove sections from the site without deleting them.
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -627,14 +628,15 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
+# site.data.resume
 jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 
-jsonresume:
+jsonresume: # Indicate sections from above file to include in html
   - basics
-  - work
   - education
+  - work
   - publications
   - projects
   - volunteer
