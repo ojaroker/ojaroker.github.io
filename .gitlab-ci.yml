@@ -1,0 +1,27 @@
+variables:
+  JEKYLL_ENV: production
+  LC_ALL: C.UTF-8
+
+stages:
+  - check
+
+prettier_check:
+  stage: check
+  tags:
+    - docker # Ensure the runner has Docker executor
+  image: node:20 # Use a Node.js image
+  script:
+    - npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+    - npx prettier . --check
+  rules:
+    - if: "$CI_COMMIT_BRANCH" # Run on all branches
+  artifacts:
+    when: on_failure
+    paths:
+      - diff.txt
+    expire_in: 7 days
+  after_script:
+    - |
+      if [ $CI_JOB_STATUS != "success" ]; then
+        npx prettier . --write
+      fi
