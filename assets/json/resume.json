@@ -181,6 +181,17 @@
       "startDate": "2025-06-10"
     },
     {
+      "name": "Spring System Simulation",
+      "summary": "Simulator and eigenmode calculator",
+      "highlights": [
+        "Personal project from Summer 2025",
+        "Users can create a spring system by placing masses and springs, then visualize eigenmodes (frequencies where every mass exhibits purely harmonic motion)",
+        "Project at oscar.jaroker.com/spring-system/"
+      ],
+      "startDate": "2025-05-20",
+      "endDate": "2025-06-05"
+    },
+    {
       "name": "Data Analysis of \"Allentown\": Measuring Musical Influence",
       "summary": "Final Project for Computational Statistics",
       "highlights": [
