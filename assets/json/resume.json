@@ -94,6 +94,12 @@
       "summary": "Won second place out of 23 teams in 2025 and received a cash prize"
     },
     {
+      "title": "MCM Competition",
+      "date": "2025",
+      "awarder": "Honorable Mention",
+      "summary": "Developed a model to predict 2028 Olympics medals distribution, presenting findings in a 25-page report. Designated as 'Honorable Mention', placing in the top 30% out of over 21000 teams."
+    },
+    {
       "title": "Edwin Foster Kingsbury Prize",
       "date": "2024-05",
       "awarder": "Colgate University, Dept of Physics",
@@ -140,30 +146,7 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    },
-    {
-      "name": "Applied Mathematics",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["MATLAB", "R Programming", "Mathematica"]
-    },
-    {
-      "name": "Computer Science",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["Java", "Python", "C++"]
-    }
-  ],
+
   "languages": [
     {
       "language": "English",
@@ -174,27 +157,6 @@
       "language": "Spanish",
       "fluency": "Intermediate",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
     }
   ],
   "projects": [
