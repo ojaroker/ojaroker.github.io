@@ -37,12 +37,23 @@
   ],
   "work": [
     {
+      "name": "Colgate University",
+      "position": "Research Assistant",
+      "startDate": "2025-09",
+      "summary": "Designing and building remote sensing devices",
+      "highlights":["Assembling and improving AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring of CH4 & CO2 gas fluxes in wetlands",
+    "Using Arduino to facilitate actuator movement and data collection via I2C sensors"]
+    },
+    {
       "name": "Art of Problem Solving",
       "position": "Summer Teaching Assistant",
       "url": "https://artofproblemsolving.com",
       "startDate": "2025-07",
       "endDate": "2025-08",
-      "summary": "Helped teach Middle School Science Contest class."
+      "summary": "TA for Middle School Science Contest class.",
+      "highlights":["Led hands-on demonstrations and experiments in optics, circuits, and magnetism for a 15-hour/week middle school Science Olympiad class",
+    "Guided 18 students through complex concepts and problem-solving, fostering collaboration and critical thinking",
+  "Prepared and organized all materials, ensuring smooth execution of lessons and Olympiad practice"]
     },
     {
       "name": "Pfizer Corporate Treasury",
@@ -177,24 +188,27 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "",
+      "icon": "",
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Optimal Harvesting in Stochastic Predator-Prey Environment",
+      "summary": "Personal Project",
+      "highlights": ["Applying stochastic control to find optimal harvesting in 2-species fishery following highly nonlinear dynamics",
+    "Using MATLAB to implement numerical methods such as FB Sweep, Euler-Maruyama, Backward Euler"],
+      "startDate": "2025-06-10"
+    },
+    {
+      "name": "Data Analysis of \"Allentown\": Measuring Musical Influence",
+      "summary": "Final Project for Computational Statistics",
+      "highlights": ["Conducted analysis of the song “Allentown”, a collaboration between 3 bands, answering the questions of which band(s) had the greatest influence on the lyrics and music in the song",
+    "Utilized R to clean and summarize the data and perform various analyses, including t-tests and bootstrap analysis",
+  "Communicated results clearly in a written report, including visualizations and explanations"],
+      "startDate": "2024-04-16",
+      "endDate": "2024-05-04"
     }
   ]
 }
