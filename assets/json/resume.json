@@ -41,8 +41,10 @@
       "position": "Research Assistant",
       "startDate": "2025-09",
       "summary": "Designing and building remote sensing devices",
-      "highlights":["Assembling and improving AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring of CH4 & CO2 gas fluxes in wetlands",
-    "Using Arduino to facilitate actuator movement and data collection via I2C sensors"]
+      "highlights": [
+        "Assembling and improving AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring of CH4 & CO2 gas fluxes in wetlands",
+        "Using Arduino to facilitate actuator movement and data collection via I2C sensors"
+      ]
     },
     {
       "name": "Art of Problem Solving",
@@ -51,9 +53,11 @@
       "startDate": "2025-07",
       "endDate": "2025-08",
       "summary": "TA for Middle School Science Contest class.",
-      "highlights":["Led hands-on demonstrations and experiments in optics, circuits, and magnetism for a 15-hour/week middle school Science Olympiad class",
-    "Guided 18 students through complex concepts and problem-solving, fostering collaboration and critical thinking",
-  "Prepared and organized all materials, ensuring smooth execution of lessons and Olympiad practice"]
+      "highlights": [
+        "Led hands-on demonstrations and experiments in optics, circuits, and magnetism for a 15-hour/week middle school Science Olympiad class",
+        "Guided 18 students through complex concepts and problem-solving, fostering collaboration and critical thinking",
+        "Prepared and organized all materials, ensuring smooth execution of lessons and Olympiad practice"
+      ]
     },
     {
       "name": "Pfizer Corporate Treasury",
@@ -197,16 +201,20 @@
     {
       "name": "Optimal Harvesting in Stochastic Predator-Prey Environment",
       "summary": "Personal Project",
-      "highlights": ["Applying stochastic control to find optimal harvesting in 2-species fishery following highly nonlinear dynamics",
-    "Using MATLAB to implement numerical methods such as FB Sweep, Euler-Maruyama, Backward Euler"],
+      "highlights": [
+        "Applying stochastic control to find optimal harvesting in 2-species fishery following highly nonlinear dynamics",
+        "Using MATLAB to implement numerical methods such as FB Sweep, Euler-Maruyama, Backward Euler"
+      ],
       "startDate": "2025-06-10"
     },
     {
       "name": "Data Analysis of \"Allentown\": Measuring Musical Influence",
       "summary": "Final Project for Computational Statistics",
-      "highlights": ["Conducted analysis of the song “Allentown”, a collaboration between 3 bands, answering the questions of which band(s) had the greatest influence on the lyrics and music in the song",
-    "Utilized R to clean and summarize the data and perform various analyses, including t-tests and bootstrap analysis",
-  "Communicated results clearly in a written report, including visualizations and explanations"],
+      "highlights": [
+        "Conducted analysis of the song “Allentown”, a collaboration between 3 bands, answering the questions of which band(s) had the greatest influence on the lyrics and music in the song",
+        "Utilized R to clean and summarize the data and perform various analyses, including t-tests and bootstrap analysis",
+        "Communicated results clearly in a written report, including visualizations and explanations"
+      ],
       "startDate": "2024-04-16",
       "endDate": "2024-05-04"
     }
