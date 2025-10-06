@@ -191,7 +191,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation <a href='https://brittanica.org/wiki/Quantum_teleportation'>Example Link 1</a>",
+        "Quantum Cryptography <a href='https://brittanica.org/wiki/Quantum_cryptography'>Example Link 2</a>"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
