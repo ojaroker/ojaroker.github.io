@@ -6,7 +6,7 @@
     "email": "oscarjaroker [at] gmail [dot] com",
     "phone": "",
     "url": "https://oscar.jaroker.com/",
-    "summary": "My academic preparation includes knowledge of computational mathematics and numerical methods, research experience in combinatorics, and competition experience in math modeling and data analysis. Some of my academic projects include mathematical simulations using MATLAB, Simulink, and R programming.  My academic and professional goals are to work in the fields of physics and engineering.",
+    "summary": "My academic preparation includes knowledge of computational mathematics and numerical methods, research experience in combinatorics, and competition experience in math modeling and data analysis. Some of my academic projects include mathematical simulations using MATLAB, Simulink, and R programming.  My academic and professional goals are to apply my data analysis and engineering skills in various fields.",
     "location": {
       "address": "37 Lincoln Ave",
       "postalCode": "07928",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "oscarjaroker",
+        "url": "https://linkedin.com/in/oscar-jaroker/"
       }
     ]
   },
@@ -32,17 +32,43 @@
       "startDate": "2023",
       "endDate": "2027",
       "score": "3.96/4.00 GPA",
-      "courses": ["Computationsl Statistics with R", "Combinatorics", "Linear Algebra"]
+      "courses": [
+        "Data Analysis",
+        "Computational Statistics",
+        "Combinatorics",
+        "Real Analysis",
+        "Linear Algebra",
+        "Classical Mechanics",
+        "Nonlinear Dynamics & Chaos",
+        "Quantum Mechanics",
+        "Electronics",
+        "Object-Oriented Programming"
+      ]
     }
   ],
   "work": [
+    {
+      "name": "Colgate University",
+      "position": "Research Assistant",
+      "startDate": "2025-09",
+      "summary": "Designing and building remote sensing devices",
+      "highlights": [
+        "Assembling and improving AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring of CH4 & CO2 gas fluxes in wetlands",
+        "Using Arduino to facilitate actuator movement and data collection via I2C sensors"
+      ]
+    },
     {
       "name": "Art of Problem Solving",
       "position": "Summer Teaching Assistant",
       "url": "https://artofproblemsolving.com",
       "startDate": "2025-07",
       "endDate": "2025-08",
-      "summary": "Teaching advanced mathematics to high school students."
+      "summary": "TA for Middle School Science Contest class.",
+      "highlights": [
+        "Led hands-on demonstrations and experiments in optics, circuits, and magnetism for a 15-hour/week middle school Science Olympiad class",
+        "Guided 18 students through complex concepts and problem-solving, fostering collaboration and critical thinking",
+        "Prepared and organized all materials, ensuring smooth execution of lessons and Olympiad practice"
+      ]
     },
     {
       "name": "Pfizer Corporate Treasury",
@@ -77,6 +103,12 @@
       "date": "2025",
       "awarder": "Second Place",
       "summary": "Won second place out of 23 teams in 2025 and received a cash prize"
+    },
+    {
+      "title": "MCM Competition",
+      "date": "2025",
+      "awarder": "Honorable Mention",
+      "summary": "Developed a model to predict 2028 Olympics medals distribution, presenting findings in a 25-page report. Designated as 'Honorable Mention', placing in the top 30% out of over 21000 teams. Code at github.com/ojaroker/MCM2025; Report at oscar.jaroker.com/assets/pdf/MCMReport.pdf"
     },
     {
       "title": "Edwin Foster Kingsbury Prize",
@@ -125,30 +157,7 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    },
-    {
-      "name": "Applied Mathematics",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["MATLAB", "R Programming", "Mathematica"]
-    },
-    {
-      "name": "Computer Science",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["Java", "Python", "C++"]
-    }
-  ],
+
   "languages": [
     {
       "language": "English",
@@ -161,43 +170,37 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "Optimal Harvesting in Stochastic Predator-Prey Environment",
+      "summary": "Personal Project",
       "highlights": [
-        "Quantum Teleportation <a href='https://brittanica.org/wiki/Quantum_teleportation'>Example Link 1</a>",
-        "Quantum Cryptography <a href='https://brittanica.org/wiki/Quantum_cryptography'>Example Link 2</a>"
+        "Applying stochastic control to find optimal harvesting in 2-species fishery following highly nonlinear dynamics",
+        "Using MATLAB to implement numerical methods such as FB Sweep, Euler-Maruyama, Backward Euler"
       ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2025-06-10"
+    },
+    {
+      "name": "Spring System Simulation",
+      "summary": "Simulator and eigenmode calculator",
+      "highlights": [
+        "Personal project from Summer 2025",
+        "Users can create a spring system by placing masses and springs, then visualize eigenmodes (frequencies where every mass exhibits purely harmonic motion)",
+        "Project at <a href=\"https://oscar.jaroker.com/spring-system/\">oscar.jaroker.com/spring-system/</a>"
+      ],
+      "startDate": "2025-05-20",
+      "endDate": "2025-06-05"
+    },
+    {
+      "name": "Data Analysis of \"Allentown\": Measuring Musical Influence",
+      "summary": "Final Project for Computational Statistics",
+      "highlights": [
+        "Conducted analysis of the song “Allentown”, a collaboration between 3 bands, answering the questions of which band(s) had the greatest influence on the lyrics and music in the song",
+        "Utilized R to clean and summarize the data and perform various analyses, including t-tests and bootstrap analysis",
+        "Communicated results clearly in a written report, including visualizations and explanations"
+      ],
+      "startDate": "2024-04-16",
+      "endDate": "2024-05-04"
     }
   ]
 }
