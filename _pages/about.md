@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-(This site is currently under development and is based on the Al-Folio Jekyll theme.)
-
 I am a junior at Colgate University studying Applied Mathematics and Physics. I am interested in studying mathematical modeling and data analysis. I have a strong background in computer science and computational methods used in simulation and optimization.
 
 During the summer of 2024, I worked as an intern in the Corporate Treasury group at Pfizer in the summer of 2024, where I learned about the financial markets through internal and external meetings, weekly teaching sessions, and working closely with team members on various projects. From this experience, I gained an appreciation of mathemaical methods used in finance.
@@ -36,3 +34,5 @@ During the summer of 2024, I worked as an intern in the Corporate Treasury group
 During the summer of 2025, I helped teach a Science Olympiad training course at Art of Problem Solving. Additionally, I worked on multiple personal projects, including a spring system simulation with eigenmode analysis and a stochastic predator-prey optimal control model.
 
 My hobbies include playing tennis, paddle, table tennis (as well as a few more racket sports) and working on small personal projects, usually inspired by current classwork.
+
+(This site is currently under development and is based on the Al-Folio Jekyll theme.)
