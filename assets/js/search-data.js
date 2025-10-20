@@ -427,7 +427,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-newton-39-s-cannon",
           title: 'Newton&amp;#39;s Cannon',
-          description: "with background image",
+          description: "Simulink Simulation of Mechanics Problem",
           section: "Projects",handler: () => {
               window.location.href = "/projects/newton_cannon/";
             },},{id: "projects-optimal-harvesting",
