@@ -5,7 +5,7 @@ description: Stochastic Predator-Prey Environment
 img: assets/img/projects/newton_cannon/illus.jpg
 importance: 1
 category: Personal
-related_publications: true
+related_publications: false
 ---
 
 Abstract: We study the problem of optimally harvesting two interacting species—one a predator of the other—modeled using a stochastic Lotka–Volterra system with harvesting. The objective is to maximize total expected revenue from fishing both species over a finite time horizon, accounting for nonlinear extraction costs and environmental stochasticity. We derive the necessary conditions for optimality using the stochastic maximum principle, in cases where the diffusion is and is not dependent on the control. Where analytical solutions are intractable, we employ a forward-backward sweep method to compute the optimal harvesting strategy numerically. The paper concludes with simulations and comparisons with linearized and deterministic approximations.

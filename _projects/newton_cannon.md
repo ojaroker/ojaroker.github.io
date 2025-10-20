@@ -5,7 +5,7 @@ description: Simulink Simulation of Mechanics Problem
 img: assets/img/projects/predator_prey/a353ff0a-171a-4ebe-99de-9ae7f7c076f0.jpg
 importance: 1
 category: Personal
-related_publications: true
+related_publications: false
 ---
 
 This project was an exercise in MATLAB Simulink and Classical Mechanics. The MATLAB and Simulink files are on my [GitHub](https://github.com/ojaroker/Projectile).
