@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Oscar Jaroker",
-    "label": "Undergraduate Student",
     "image": "",
     "email": "oscarjaroker [at] gmail [dot] com",
     "phone": "",
@@ -27,11 +26,11 @@
       "institution": "Colgate University",
       "location": "Hamilton, NY",
       "url": "https://colgate.edu",
-      "area": "Applied Mathematics and Physics with Coursework in Computer Science",
+      "area": "Applied Mathematics and Physics Double Major with Coursework in Computer Science",
       "studyType": "Bachelors",
       "startDate": "2023",
       "endDate": "2027",
-      "score": "3.96/4.00 GPA",
+      "gpa": "3.96 / 4.00 Overall and 4.00 / 4.00 in Majors",
       "courses": [
         "Data Analysis",
         "Computational Statistics",
@@ -48,35 +47,35 @@
   ],
   "work": [
     {
-      "name": "Colgate University",
-      "position": "Research Assistant",
+      "name": "Colgate University, Geography Laboratory",
+      "position": "Electronics Technician",
       "startDate": "2025-09",
       "summary": "Designing and building remote sensing devices",
       "highlights": [
-        "Assembling and improving AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring of CH4 & CO2 gas fluxes in wetlands",
-        "Using Arduino to facilitate actuator movement and data collection via I2C sensors"
+        "Integrating CH4 and CO2 sensors with Arduino microcontroller for AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring gasses in wetlands",
+        "Programming Arduino microcontroller for actuator movement, data collection and reporting via I2C-protocol"
       ]
     },
     {
       "name": "Art of Problem Solving",
-      "position": "Summer Teaching Assistant",
+      "position": "Teaching Assistant",
       "url": "https://artofproblemsolving.com",
       "startDate": "2025-07",
       "endDate": "2025-08",
-      "summary": "TA for Middle School Science Contest class.",
+      "summary": "TA for Middle School Science Contest",
       "highlights": [
-        "Led hands-on demonstrations and experiments in optics, circuits, and magnetism for a 15-hour/week middle school Science Olympiad class",
+        "Prepared students for the Science Olympiad through hands-on demonstrations and experiments in optics, circuits, mechanics, robotics, electricity and magnetism",
         "Guided 18 students through complex concepts and problem-solving, fostering collaboration and critical thinking",
         "Prepared and organized all materials, ensuring smooth execution of lessons and Olympiad practice"
       ]
     },
     {
       "name": "Pfizer Corporate Treasury",
-      "position": "Summer Intern",
+      "position": "Corporate Finance Intern",
       "url": "https://pfizer.com",
       "startDate": "2024-06",
       "endDate": "2024-08",
-      "summary": "Financial modeling and analysis of corporate treasury operations.",
+      "summary": "Financial modeling and analysis of corporate treasury operations",
       "highlights": [
         "Conducted financial research of pharmaceutical industry by coding drug-industry benchmarking program, accessing Bloomberg data through Python API, to compare key company metrics across peer groups",
         "Simulated and reproduced S&P/Moody's credit rating of Pfizer debt to understand the credit rating process",
@@ -90,7 +89,7 @@
       "url": "https://internationalivy.com",
       "startDate": "2023-06",
       "endDate": "2023-08",
-      "summary": "Taught middle school students electronics.",
+      "summary": "Taught middle school students electronics",
       "highlights": [
         "Taught Arduino and Makey Makey courses by building off of the existing curriculum to provide half-day instruction to students ages 8-14, developing their collaboration, design, and programming skills",
         "Awarded bonus as a top instructor based on positive feedback from students & parents"

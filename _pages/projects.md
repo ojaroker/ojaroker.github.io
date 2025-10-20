@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
+description: Academic Work, Professional Experience and Personal Interests
+nav: true
+nav_order: 1
+display_categories: [Academic, Professional, Personal, other]
 horizontal: false
 ---
 
