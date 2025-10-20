@@ -35,4 +35,4 @@ During the summer of 2024, I worked as an intern in the Corporate Treasury group
 
 During the summer of 2025, I helped teach a Science Olympiad training course at Art of Problem Solving. Additionally, I worked on multiple personal projects, including a spring system simulation with eigenmode analysis and a stochastic predator-prey optimal control model.
 
-My hobbies include playing tennis, paddle, table tennis (as well as a few more racket sports) and working on small personal projects, usually inspired by current classwork.
+I am currently the President of the Colgate Engineering Club, where students work together to design and build interesting long-term engineering projects. My hobbies include playing tennis, paddle, table tennis (as well as a few more racket sports) and working on small personal projects, usually inspired by current classwork.
