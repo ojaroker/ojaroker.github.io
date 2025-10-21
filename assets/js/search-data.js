@@ -435,6 +435,11 @@ ninja.data = [{
           description: "Stochastic Predator-Prey Environment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/predator-prey/";
+            },},{id: "projects-spring-system",
+          title: 'Spring System',
+          description: "Eigenmode Calculator and Simulation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spring_system/";
             },},{
         id: 'social-email',
         title: 'email',
