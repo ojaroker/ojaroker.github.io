@@ -2,7 +2,7 @@
 layout: page
 title: Spring System
 description: Eigenmode Calculator and Simulation
-img: assets/img/projects/spring-system/springs.png
+img: assets/img/projects/spring_system/springs.png
 importance: 1
 category: Personal
 related_publications: false
