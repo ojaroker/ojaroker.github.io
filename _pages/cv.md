@@ -9,7 +9,7 @@ nav: true
 nav_order: 2
 # PDF file can be either a URL or local file
 # located in assets/pdf/ directory
-cv_pdf: resume.pdf # you can also use external links here
+cv_pdf: OscarJarokerResume.pdf # you can also use external links here. located in assets/pdf/resume
 description:
 toc:
   sidebar: left
