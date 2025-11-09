@@ -10,3 +10,7 @@ Check all files for formatting:
 npx prettier -c . # All files
 npx prettier -c _config.yml # A specific file
 ```
+
+## Running
+
+docker compose up
