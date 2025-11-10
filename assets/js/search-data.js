@@ -380,27 +380,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
+          section: "News",},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -425,6 +405,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-books",
+          title: 'Books',
+          description: "another without an image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/books/";
+            },},{id: "projects-coding-hackathons",
+          title: 'Coding Hackathons',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hackathons/";
             },},{id: "projects-newton-39-s-cannon",
           title: 'Newton&amp;#39;s Cannon',
           description: "Simulink Simulation of Mechanics Problem",
@@ -440,6 +430,16 @@ ninja.data = [{
           description: "Eigenmode Calculator and Simulation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/spring_system/";
+            },},{id: "projects-tennis",
+          title: 'Tennis',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tennis/";
+            },},{id: "projects-travel",
+          title: 'Travel',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/travel/";
             },},{
         id: 'social-email',
         title: 'email',
