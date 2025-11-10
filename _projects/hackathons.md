@@ -1,12 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: other
-giscus_comments: true
+title: Coding Hackathons
+description: a project that redirects to another website
+img: assets/img/projects/hackathon/illus.jpg
+#redirect: https://unsplash.com
+importance: 3
+category: Professional
 ---
+
+(PAGE IN PROGRESS)
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

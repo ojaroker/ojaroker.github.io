@@ -6,12 +6,11 @@ subtitle:
 
 profile:
   align: left
-  image: #prof_pic.jpg
+  image: oscar_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Applied Math - Physics Double Major</p>
+    <p>Applied Mathematics and Physics Double Major</p>
     <p><a href='http://colgate.edu' target="_blank">Colgate University</a></p>
-    <p>oscarjaroker {at} gmail {dot} com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,12 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a junior at Colgate University studying Applied Mathematics and Physics. I am interested in studying mathematical modeling and data analysis. I have a strong background in computer science and computational methods used in simulation and optimization.
+I am a junior at Colgate University studying Applied Mathematics and Physics with an interest in mathematical modeling and data analysis and a strong background in computer science and computational methods used in simulations and optimizations. I am the founder and current President of the Colgate Engineering Club, where students design and build interesting long-term engineering projects.
 
-I am currently an electronics lab technician in Professor Loranty's geography lab working with Arduino microcontrollers that communicate with methane and carbon dioxide sensors to collect environmental data.
+Currently, I work as an electronics lab technician with Arduino microcontrollers that communicate with methane and carbon dioxide sensors to collect environmental data. My work includes soldering together circuit boards, troubleshooting i2c communications between the various sensors, and coding the Arduino microcontroller to capture, analyze and report data.
 
-During the summer of 2024, I worked as an intern in the Corporate Treasury group at Pfizer in the summer of 2024, where I learned about the financial markets through internal and external meetings, weekly teaching sessions, and working closely with team members on various projects. From this experience, I gained an appreciation of mathemaical methods used in finance.
+During the summer of 2024, I was a Corporate Treasury intern at Pfizer where I learned about financial markets through internal and external meetings and weekly teaching sessions. I participated on various projects and gained an appreciation of mathemaical methods used in finance. For example, I used Python coding and statistical methods to independently calculate the S&P rating of Pfizer's corporate debt.
 
 During the summer of 2025, I helped teach a Science Olympiad training course at Art of Problem Solving. Additionally, I worked on multiple personal projects, including a spring system simulation with eigenmode analysis and a stochastic predator-prey optimal control model.
 
-I am currently the President of the Colgate Engineering Club, where students work together to design and build interesting long-term engineering projects. My hobbies include playing tennis, paddle, table tennis (as well as a few more racket sports) and working on small personal projects, usually inspired by current classwork.
+My hobbies include playing tennis, paddle, table tennis (as well as a few more racket sports) and working on small personal projects, usually inspired by current classwork.
