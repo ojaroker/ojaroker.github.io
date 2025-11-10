@@ -4,7 +4,7 @@ title: Newton's Cannon
 description: Simulink Simulation of Mechanics Problem
 img: assets/img/projects/newton_cannon/illus.jpg
 importance: 1
-category: Personal
+category: Academic
 related_publications: false
 pdf: NewtonsCannon.pdf # page.liquid template uses assets/pdf/projects subdirectory
 ---

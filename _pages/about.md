@@ -6,12 +6,11 @@ subtitle:
 
 profile:
   align: left
-  image: #prof_pic.jpg
+  image: oscar_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Applied Math - Physics Double Major</p>
+    <p>Applied Mathematics and Physics Double Major</p>
     <p><a href='http://colgate.edu' target="_blank">Colgate University</a></p>
-    <p>oscarjaroker {at} gmail {dot} com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

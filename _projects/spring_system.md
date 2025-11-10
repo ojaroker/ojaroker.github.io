@@ -4,7 +4,7 @@ title: Spring System
 description: Eigenmode Calculator and Simulation
 img: assets/img/projects/spring_system/illus.jpg
 importance: 1
-category: Personal
+category: Academic
 related_publications: false
 redirect: https://oscar.jaroker.com/spring-system
 ---
