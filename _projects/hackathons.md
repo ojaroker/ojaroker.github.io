@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coding Hackathons
+title: Hackathons
 description: a project that redirects to another website
 img: assets/img/projects/hackathon/illus.jpg
 #redirect: https://unsplash.com
