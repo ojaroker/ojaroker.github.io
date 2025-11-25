@@ -2,7 +2,7 @@
 layout: page
 title: Travel
 description: with background image
-img: assets/img/projects/travel/illus.jpg
+img: #assets/img/projects/travel/illus.jpg
 importance: 1
 category: Personal
 related_publications: true
