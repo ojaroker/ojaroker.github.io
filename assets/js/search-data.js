@@ -410,8 +410,8 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/books/";
-            },},{id: "projects-coding-hackathons",
-          title: 'Coding Hackathons',
+            },},{id: "projects-hackathons",
+          title: 'Hackathons',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hackathons/";
