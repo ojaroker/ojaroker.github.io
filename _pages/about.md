@@ -30,8 +30,10 @@ I am a junior at Colgate University studying Applied Mathematics and Physics wit
 
 Currently, I work as an electronics lab technician with Arduino microcontrollers that communicate with methane and carbon dioxide sensors to collect environmental data. My work includes soldering together circuit boards, troubleshooting i2c communications between the various sensors, and coding the Arduino microcontroller to capture, analyze and report data.
 
-During the summer of 2024, I was a Corporate Treasury intern at Pfizer where I learned about financial markets through internal and external meetings and weekly teaching sessions. I participated on various projects and gained an appreciation of mathemaical methods used in finance. For example, I used Python coding and statistical methods to independently calculate the S&P rating of Pfizer's corporate debt.
+For the Spring 2026 semester, I am the Course Teaching Assistant for PHYS 334 <i>Introduction to Quantum Mechanics and Speical Relativity</i> and the Laboratory Teaching Assistent for PHYS 336 <i>Digital and Analog Electronics</i>.
+
+During the summer of 2024, I was a Corporate Treasury intern at Pfizer where I learned about financial markets through internal and external meetings and weekly teaching sessions. I participated on various projects and gained an appreciation of mathemaical methods used in finance. For example, I used Python coding and statistical methods to independently calculate the S&P rating of Pfizer's corporate debt using Bloomberg Terminal's API in Python.
 
 During the summer of 2025, I helped teach a Science Olympiad training course at Art of Problem Solving. Additionally, I worked on multiple personal projects, including a spring system simulation with eigenmode analysis and a stochastic predator-prey optimal control model.
 
-My hobbies include playing tennis, paddle, table tennis (as well as a few more racket sports) and working on small personal projects, usually inspired by current classwork.
+My hobbies include playing tennis, paddle, table tennis (as well as a few more racket sports) and working on small personal projects, usually inspired by current classwork. This website is still in development.
