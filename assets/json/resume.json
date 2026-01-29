@@ -41,19 +41,29 @@
         "Nonlinear Dynamics & Chaos",
         "Quantum Mechanics",
         "Electronics",
-        "Object-Oriented Programming"
+        "Object-Oriented Programming",
+        "Economics"
       ]
     }
   ],
   "work": [
+    {
+      "name": "Colgate University, Physics Department",
+      "position": "Undergraduate Teaching Roles",
+      "startDate": "2026-01",
+      "highlights": [
+        "Laboratory Teaching Assistant <i>Digital and Analog Electronics<i>",
+        "Course Teaching Assistant <i>Introduction to Quantum Mechanics and Special Relativity</i>"
+      ]
+    },
     {
       "name": "Colgate University, Geography Laboratory",
       "position": "Electronics Technician",
       "startDate": "2025-09",
       "summary": "Designing and building remote sensing devices",
       "highlights": [
-        "Integrating CH4 and CO2 sensors with Arduino microcontroller for AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring gasses in wetlands",
-        "Programming Arduino microcontroller for actuator movement, data collection and reporting via I2C-protocol"
+        "Integrating CH<sub>4</sub> and CO<sub>2</sub> sensors with Arduino microcontroller for AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring gasses in wetlands",
+        "Programming Arduino microcontroller for actuator movement, data collection and reporting via I<sup>2</sup>C-protocol"
       ]
     },
     {
