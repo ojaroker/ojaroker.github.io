@@ -410,11 +410,21 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/books/";
+            },},{id: "projects-count-regression-package",
+          title: 'Count Regression Package',
+          description: "R Package for Count and Zero-Inflated Regression Modeling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/glmOJ/";
             },},{id: "projects-hackathons",
           title: 'Hackathons',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hackathons/";
+            },},{id: "projects-koopman-analysis-of-chua-39-s-circuit",
+          title: 'Koopman Analysis of Chua&amp;#39;s Circuit',
+          description: "EDMD Applied to a Physical Chaotic System",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/koopman/";
             },},{id: "projects-newton-39-s-cannon",
           title: 'Newton&amp;#39;s Cannon',
           description: "Simulink Simulation of Mechanics Problem",
