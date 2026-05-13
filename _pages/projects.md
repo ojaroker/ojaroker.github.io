@@ -5,7 +5,7 @@ permalink: /projects/
 description: Academic Work, Professional Experience and Personal Interests
 nav: true
 nav_order: 1
-display_categories: [Academic, Professional, Personal, other]
+display_categories: ["2026", "2025", "2024"]
 horizontal: false
 ---
 

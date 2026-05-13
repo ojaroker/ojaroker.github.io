@@ -181,6 +181,30 @@
   ],
   "projects": [
     {
+      "name": "Koopman Analysis of Chua's Circuit",
+      "summary": "Final Project for Nonlinear Dynamics and Chaos",
+      "highlights": [
+        "Built Chua's Circuit in lab and collected time-series data across four dynamical regimes: fixed point, limit cycle, period-doubled, and double scroll",
+        "Applied Extended Dynamic Mode Decomposition (EDMD) to approximate the Koopman operator and extract dominant frequencies and geometric structure from each regime",
+        "Characterized the chaotic double scroll attractor via Lyapunov exponent estimation, correlation dimension, and box-counting dimension"
+      ],
+      "startDate": "2026-03-01",
+      "endDate": "2026-05-01",
+      "url": "https://oscar.jaroker.com/projects/koopman"
+    },
+    {
+      "name": "glmOJ: Count Regression R Package",
+      "summary": "Final Project for MATH 454 Statistical Learning",
+      "highlights": [
+        "Developed an R package providing a unified workflow for fitting, diagnosing, and interpreting count and semi-continuous regression models",
+        "Supports Poisson, quasi-Poisson, negative binomial, Tweedie, and zero-inflated counterparts (ZIP, ZINB, ZI-Tweedie) with automatic model selection by AIC, BIC, log-likelihood, or McFadden pseudo-R²",
+        "Package site at <a href=\"https://oscar.jaroker.com/glmOJ\">oscar.jaroker.com/glmOJ</a>"
+      ],
+      "startDate": "2026-02-01",
+      "endDate": "2026-05-01",
+      "url": "https://oscar.jaroker.com/glmOJ"
+    },
+    {
       "name": "Optimal Harvesting in Stochastic Predator-Prey Environment",
       "summary": "Personal Project",
       "highlights": [

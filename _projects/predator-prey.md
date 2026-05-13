@@ -3,8 +3,8 @@ layout: page
 title: Optimal Harvesting
 description: Stochastic Predator-Prey Environment
 img: assets/img/projects/predator_prey/illus.jpg
-importance: 1
-category: Academic
+importance: 2
+category: "2025"
 related_publications: false
 pdf: OptimalHarvesting.pdf
 ---
