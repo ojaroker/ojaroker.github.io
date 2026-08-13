@@ -432,7 +432,7 @@ ninja.data = [{
               window.location.href = "/projects/newton_cannon/";
             },},{id: "projects-optimal-harvesting",
           title: 'Optimal Harvesting',
-          description: "Stochastic Predator-Prey Environment",
+          description: "Stochastic Control of a Predator-Prey Fishery",
           section: "Projects",handler: () => {
               window.location.href = "/projects/predator-prey/";
             },},{id: "projects-spring-system",
