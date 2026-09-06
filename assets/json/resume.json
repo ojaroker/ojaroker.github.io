@@ -5,7 +5,7 @@
     "email": "oscarjaroker [at] gmail [dot] com",
     "phone": "",
     "url": "https://oscar.jaroker.com/",
-    "summary": "My academic preparation includes knowledge of computational mathematics and numerical methods, research experience in combinatorics, and competition experience in math modeling and data analysis. Some of my academic projects include mathematical simulations using MATLAB, Simulink, and R programming.  My academic and professional goals are to apply my data analysis and engineering skills in various fields.",
+    "summary": "I am a senior at Colgate University studying Applied Mathematics and Physics, with an interest in mathematical modeling, data analysis, and the computational methods behind simulation and optimization. My experience spans high performance computing in C, statistical modeling in R and Python, embedded sensing with Arduino, and quantitative work in corporate finance.",
     "location": {
       "address": "37 Lincoln Ave",
       "postalCode": "07928",
@@ -33,38 +33,54 @@
       "gpa": "3.96 / 4.00 Overall and 4.00 / 4.00 in Majors",
       "courses": [
         "Data Analysis",
-        "Computational Statistics",
+        "Statistical Learning",
         "Combinatorics",
         "Real Analysis",
-        "Linear Algebra",
-        "Classical Mechanics",
+        "Lagrangian Mechanics",
         "Nonlinear Dynamics & Chaos",
         "Quantum Mechanics",
         "Electronics",
-        "Object-Oriented Programming",
-        "Economics"
+        "Object-Oriented Programming"
       ]
     }
   ],
   "work": [
     {
-      "name": "Colgate University, Physics Department",
-      "position": "Undergraduate Teaching Roles",
-      "startDate": "2026-01",
+      "name": "National Security Agency",
+      "position": "High-Performance Computing Intern",
+      "location": "Catonsville, MD",
+      "startDate": "2026-06",
+      "endDate": "2026-08",
+      "summary": "High performance data movement for large-scale compute systems",
       "highlights": [
-        "Laboratory Teaching Assistant <i>Digital and Analog Electronics<i>",
-        "Course Teaching Assistant <i>Introduction to Quantum Mechanics and Special Relativity</i>"
+        "Co-developed a multithreaded C file-transfer utility slated to replace the incumbent HPC transfer tool, outperforming every alternative benchmarked; raised sustained throughput over a 200 Gbit/s InfiniBand fabric by 29% over the incumbent on RAM-backed storage and 32% on a Lustre parallel filesystem",
+        "Designed the tool's shipped congestion-control algorithm, keyed on delivery rate and minimum RTT rather than packet loss: 260% higher throughput than TCP CUBIC on a lossy emulated WAN and 74% lower transfer time on high-bandwidth-delay paths, eliminating a throughput-collapse failure mode",
+        "Delivered weekly progress presentations to interns and staff; co-authored the project's technical paper and a second paper documenting the team's AI-assisted software engineering workflow, for use as an internal resource"
       ]
     },
     {
-      "name": "Colgate University, Geography Laboratory",
-      "position": "Electronics Technician",
-      "startDate": "2025-09",
-      "summary": "Designing and building remote sensing devices",
+      "name": "Colgate University, Physics Department",
+      "position": "Undergraduate Teaching Assistant",
+      "startDate": "2026-01",
       "highlights": [
-        "Integrating CH<sub>4</sub> and CO<sub>2</sub> sensors with Arduino microcontroller for AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring gasses in wetlands",
-        "Programming Arduino microcontroller for actuator movement, data collection and reporting via I<sup>2</sup>C-protocol"
-      ]
+        "Teaching Assistant, PHYS 125 <i>Introductory Physics</i> (Fall 2026): leading discussion sections and holding office hours",
+        "Course Teaching Assistant, <i>Introduction to Quantum Mechanics and Special Relativity</i> (Spring 2026): led homework discussion sections and held office hours",
+        "Laboratory Teaching Assistant, <i>Digital and Analog Electronics</i> (Spring 2026): supported laboratory experiments and circuit troubleshooting"
+      ],
+      "location": "Hamilton, NY"
+    },
+    {
+      "name": "Colgate University, Geography Laboratory",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2025-09",
+      "summary": "Designed and built remote sensing devices",
+      "highlights": [
+        "Integrated CH<sub>4</sub> and CO<sub>2</sub> sensors with an Arduino microcontroller for AQUA-Flux, a low-cost autonomous floating chamber for long-term monitoring of gasses in wetlands",
+        "Programmed the Arduino microcontroller for actuator movement, data collection and reporting over the I<sup>2</sup>C protocol",
+        "Design and code at <a href=\"https://github.com/ojaroker/AQUA_Flux_Colgate\">github.com/ojaroker/AQUA_Flux_Colgate</a>"
+      ],
+      "location": "Hamilton, NY",
+      "endDate": "2026-05"
     },
     {
       "name": "Art of Problem Solving",
@@ -77,7 +93,8 @@
         "Prepared students for the Science Olympiad through hands-on demonstrations and experiments in optics, circuits, mechanics, robotics, electricity and magnetism",
         "Guided 18 students through complex concepts and problem-solving, fostering collaboration and critical thinking",
         "Prepared and organized all materials, ensuring smooth execution of lessons and Olympiad practice"
-      ]
+      ],
+      "location": "Millburn, NJ"
     },
     {
       "name": "Pfizer Corporate Treasury",
@@ -91,7 +108,8 @@
         "Simulated and reproduced S&P/Moody's credit rating of Pfizer debt to understand the credit rating process",
         "Developed pricing simulator for interest-rate swaps using Bloomberg API and R programming language to understand how interest rate movements might affect Pfizer’s portfolio",
         "Presented results through multiple PowerPoint presentations to Capital Markets, Capital Strategy, Risk Management groups to show how company metrics and potential movements could impact future strategy"
-      ]
+      ],
+      "location": "New York, NY"
     },
     {
       "name": "International Ivy Summer Enrichment Program",
@@ -103,10 +121,17 @@
       "highlights": [
         "Taught Arduino and Makey Makey courses by building off of the existing curriculum to provide half-day instruction to students ages 8-14, developing their collaboration, design, and programming skills",
         "Awarded bonus as a top instructor based on positive feedback from students & parents"
-      ]
+      ],
+      "location": "Summit, NJ"
     }
   ],
   "awards": [
+    {
+      "title": "Osborn Mathematics Prize",
+      "date": "2026-05",
+      "awarder": "Colgate University, Dept of Mathematics",
+      "summary": "Awarded for achieving the highest score on a 3rd-year level mathematics exam"
+    },
     {
       "title": "RIT Physics Olympiad",
       "date": "2025",
@@ -128,7 +153,7 @@
     },
     {
       "title": "Deans Award with Distinction",
-      "date": "2023, 2024, 2025",
+      "date": "2023, 2024, 2025, 2026",
       "awarder": "Colgate University",
       "url": "https://www.colgate.edu/about/offices-centers-institutes/dean-college/student-awards-and-honors/deans-award-distinction#J",
       "summary": "Award to students with a term GPA above 3.6"
@@ -144,8 +169,8 @@
       "organization": "Engineering & Design Club",
       "location": "Colgate University",
       "position": "President, Co-Founder",
-      "startDate": "2024",
-      "summary": "Founded organization to build interesting engineering innovation by recruiting interested members and working with Colgate Office of Student Involvement and Physics Department"
+      "startDate": "2025-02",
+      "summary": "Founded and led a 40+ member engineering club, recruiting members and working with the Colgate Office of Student Involvement and Physics Department; secured $3,000 in project funding for the Spring 2026 semester"
     },
     {
       "organization": "CS Base",
@@ -157,7 +182,6 @@
       "highlights": ["Recruited Instructors, Developed Course Schedules, Managed Student Registrations", "Software Programming Instructor"]
     }
   ],
-
   "certificates": [
     {
       "name": "Bloomberg Market Concepts Certificate",
@@ -166,7 +190,6 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-
   "languages": [
     {
       "language": "English",
@@ -234,6 +257,27 @@
       ],
       "startDate": "2024-04-16",
       "endDate": "2024-05-04"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python (Pandas, Matplotlib)", "C", "C++", "R (tidyr, ggplot2)", "MATLAB", "Java", "SQL", "Mathematica"]
+    },
+    {
+      "name": "Methods",
+      "level": "Advanced",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Mathematical modeling",
+        "Numerical methods",
+        "Statistical learning",
+        "High performance computing",
+        "Data analysis",
+        "Embedded systems"
+      ]
     }
   ]
 }
