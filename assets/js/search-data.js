@@ -425,6 +425,11 @@ ninja.data = [{
           description: "EDMD Applied to a Physical Chaotic System",
           section: "Projects",handler: () => {
               window.location.href = "/projects/koopman/";
+            },},{id: "projects-msc",
+          title: 'MSC',
+          description: "High-Throughput Parallel File Transfer for Linux",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/msc/";
             },},{id: "projects-newton-39-s-cannon",
           title: 'Newton&amp;#39;s Cannon',
           description: "Simulink Simulation of Mechanics Problem",
