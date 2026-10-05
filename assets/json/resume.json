@@ -55,7 +55,8 @@
       "highlights": [
         "Co-developed a multithreaded C file-transfer utility slated to replace the incumbent HPC transfer tool, outperforming every alternative benchmarked; raised sustained throughput over a 200 Gbit/s InfiniBand fabric by 29% over the incumbent on RAM-backed storage and 32% on a Lustre parallel filesystem",
         "Designed the tool's shipped congestion-control algorithm, keyed on delivery rate and minimum RTT rather than packet loss: 260% higher throughput than TCP CUBIC on a lossy emulated WAN and 74% lower transfer time on high-bandwidth-delay paths, eliminating a throughput-collapse failure mode",
-        "Delivered weekly progress presentations to interns and staff; co-authored the project's technical paper and a second paper documenting the team's AI-assisted software engineering workflow, for use as an internal resource"
+        "Delivered weekly progress presentations to interns and staff; co-authored the project's technical paper and a second paper documenting the team's AI-assisted software engineering workflow, for use as an internal resource",
+        "Code cleared agency review and was released as open source under the MIT License; now a maintainer of the project at <a href=\"https://github.com/fcsi-msc/msc\">github.com/fcsi-msc/msc</a>"
       ]
     },
     {
